@@ -1,0 +1,3 @@
+[submodule "ChungAPIs"]
+	path = ChungAPIs
+	url = https://github.com/ChungIndustries/ChungAPIs
